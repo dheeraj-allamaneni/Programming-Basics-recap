@@ -22,6 +22,8 @@ void main(){
 	for(i=0;i<n;i++){
 		printf("%d ",temp[i]);
 	}
+	free(A);
+	free(temp);
 	
 }
 
