@@ -1,3 +1,34 @@
+/*
+n=13:
+13 is divisible by 1 
+14 is divisible by 2 
+15 is divisible by 3 
+16 is divisible by 4 
+17 is not divisible by 5
+
+The Divisibilty Streak of 13 is 4
+
+n=120:
+120 is divisible by 1 
+121 is not divisible by 2 
+
+The Divisibilty Streak of 120 is 1
+Test Cases:
+
+n      DS
+2      1
+3      2
+4      1
+5      2
+6      1
+7      3
+8      1
+9      2
+10     1
+2521   10
+*/
+
+
 #include <stdio.h>
 
 void main(){
